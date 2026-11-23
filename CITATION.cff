@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use FrameNasa, cite the software and the exact released version."
+title: "FrameNasa"
+type: software
+version: 0.2.0
+date-released: 2026-11-23
+authors:
+  - name: "FrameNasa contributors"
+license: Apache-2.0
+repository-code: "https://github.com/MuriloELC/FrameNasa"
+abstract: "Framework genérico para prototipagem responsiva, importação e exploração de dados em hackathons."

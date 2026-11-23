@@ -1,0 +1,9 @@
+{
+  "source": "Exemplo sintético FrameNasa; não representa medições reais",
+  "license": "CC0-1.0",
+  "simulated": true,
+  "records": [
+    {"label": "Ponto A", "value": 12.5, "unit": "mm", "date": "2026-01-01"},
+    {"label": "Ponto B", "value": 18.2, "unit": "mm", "date": "2026-01-02"}
+  ]
+}
